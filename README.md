@@ -1,1 +1,1 @@
-# igo
+# igo game
